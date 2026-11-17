@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="portfolio-banner.jpg" alt="Ke Fan · Financial Analysis &amp; Risk Management · University of Waterloo, Co-op"></h1>
+<h1><img src="https://raw.githubusercontent.com/321NERIN/321NERIN/main/portfolio-banner.jpg" alt="Ke Fan · Financial Analysis &amp; Risk Management · University of Waterloo, Co-op"></h1>
 
 Market risk · Asset–liability management · Quantitative modeling
 
@@ -19,7 +19,7 @@ I study Financial Analysis and Risk Management at the University of Waterloo and
 | **[Canadian Pension Surplus Risk & LDI](https://github.com/321NERIN/pension-ldi-lab)** | Sweep interest-rate hedge targets for a fictional defined-benefit plan. Under the displayed stress, the 76% DV01 hedge had CAD 73.9M of one-year surplus-at-risk and a CAD 1.4M cash buffer. A full DV01 match left a CAD 61.7M cash shortfall. | **[Open 30-day liquidity replay](https://321nerin.github.io/pension-ldi-lab/?v=replay-1#liquidity)** · [Hedge frontier](https://321nerin.github.io/pension-ldi-lab/) |
 | **[Banking-Book Interest Rate Risk (IRRBB)](https://github.com/321NERIN/irrbb-lab)** | Test six rate shocks, deposit behavior and pay-fixed swaps on a synthetic CAD 100B bank. A CAD 10B swap reduced the worst EVE loss from 17.24% to 9.49% of Tier 1 capital, while the 200 bp falling-rate scenario showed weaker one-year net interest income. | **[Open 12-month scenario simulator](https://321nerin.github.io/irrbb-lab/#simulator)** |
 
-Each repository links to a walkthrough, documented assumptions, reproducible analysis and the underlying scenario results.
+These original financial risk research projects connect quantitative analysis with practical decisions in market risk, pension investing and bank asset–liability management. Each repository links to a walkthrough, documented assumptions, reproducible analysis and the underlying scenario results.
 
 ## Finance and technical toolkit
 
